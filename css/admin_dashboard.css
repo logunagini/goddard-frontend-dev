@@ -6,7 +6,9 @@ html
 {
     font-size: medium;
 }
-
+h2 {
+      color: #0F2D52 !important;
+}
 .admin_cards
 {
     width: 90% !important;
